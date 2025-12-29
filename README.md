@@ -18,6 +18,6 @@ Most restaurant websites are either overly decorative or functionally cold. NOIR
 Whether browsing the menu, exploring the restaurant’s story, or planning a visit, NOIR delivers an experience that feels curated, atmospheric, and unmistakably premium.
 
 ## Live preview
-Link to the website:
+Link to the website: https://denysovski.github.io/NoirRestaurant/
 
 <img alt="screencapture-file-C-Users-Dan-Downloads-Web-designs-NOIR-index-html-2025-12-29-15_59_00" src="https://github.com/user-attachments/assets/c1bcd7c1-8852-4f0d-84a8-fcc137fb81fc" />
